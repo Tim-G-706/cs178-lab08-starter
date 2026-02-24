@@ -1,4 +1,5 @@
 # Lab 8 - Tim Groth
+#Version 2
 # CS178 - Lab 8 Starter
 
 REGION = "us-east-1"
